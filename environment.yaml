@@ -1,0 +1,15 @@
+name: summarize
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - omegaconf
+    - hydra-core
+    - pdfplumber
+    - python-docx
+    - openai
+    - glob2
+    - tqdm
+    - tiktoken

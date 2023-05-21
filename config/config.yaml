@@ -1,0 +1,12 @@
+openai:
+  api_key: "OPENAI API KEY HERE"
+  engine: "text-davinci-003"
+  temperature: 0.3
+  max_tokens: 1000
+  stop: None
+  token_limit: 4097
+  buffer_tokens: 100
+
+file:
+  pdfs_path: "pdfs/"
+  output_path: "summaries/"
