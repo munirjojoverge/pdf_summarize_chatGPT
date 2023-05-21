@@ -21,13 +21,13 @@ __It's mainly aimed to summarize papers for further analysis and code developmen
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/username/repo.git
+    git clone https://github.com/munirjojoverge/pdf_summarize_chatGPT.git
     ```
 
 2. Change into the directory:
 
     ```sh
-    cd repo
+    cd pdf_summarize_chatGPT
     ```
 
 3. Create a simple conda/mamba enviroment and install the required packages:
